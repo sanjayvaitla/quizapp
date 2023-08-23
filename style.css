@@ -6,8 +6,8 @@
   box-sizing: border-box;
 }
 body{
-  background-color: #f3fb01;
-  background-image: linear-gradient(315deg, #bef607 0%, #04f3f3 100%);
+  background-color: #01fbfb;
+  background-image: linear-gradient(315deg,#01fbfb 0%, #04f3f3 100%);
   font-family: 'Poppins', sans-serif;
   display: flex;
   align-items: center;
