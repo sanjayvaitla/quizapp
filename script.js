@@ -24,6 +24,15 @@ const quizData = [
         correct: "a",
     },
     {
+        question: "Which of the following materials is used to make dynamic random access memory (DRAM)?",
+        a:"Silicon",
+        b:"Indium gallium zinc oxide ",
+        c:"Gallium arsenide",
+        d:"All of the above",
+        correct:"b",
+    },
+
+    {
         question: "What year was JavaScript launched?",
         a: "1996",
         b: "1995",
@@ -40,19 +49,19 @@ const quizData = [
         correct: "a",
     },
     {
-        question:"Which of the following is not a programming language?",
-        a:"C++",
-        b:"JavaScript",
-        c:"java",
-        d:"python",
-        correct: "b",
+        question:"Lead oxide is an example of which type of battery",
+        a:"primary battery",
+        b:"resome battery",
+        c:"secondary battery",
+        d:"all of the above",
+        correct: "c",
     },
     {
         question:"Which of the following is not a computer network?",
-        a:"lan",
+        a:"Lan",
         b:"Man",
-        c:"internet",
-        d:"interanet",
+        c:"Internet",
+        d:"Interanet",
         correct: "d",
 
     },
@@ -80,7 +89,42 @@ const quizData = [
         c:"Fraud detection",
         d:"Virtual assistants",
         correct:"a",
-    }
+    },
+    {
+        question: "what is deficiency of vitamin A",
+        a:"beri-beri",
+        b:"Night blindness",
+        c:"Anaemia",
+        d:"Scurvy",
+        correct:"b",
+    },
+    {
+        question: "Which of the following materials is used to make organic light-emitting diode (OLED) displays?",
+        a:" Polyethylene terephthalate",
+        b:"Indium tin oxide",
+        c:" Poly(methyl methacrylate) (PMMA)",
+        d:"All of the above",
+        correct:"d",
+    },
+    {
+        question: "Which of the following materials is used to make liquid crystal displays",
+        a:"Nematic liquid crystals",
+        b:"Twisted nematic liquid crystals",
+        c:"In-plane switching (IPS) liquid crystals",
+        d:"All of the above",
+        correct:"d",
+    },
+    {
+        question: "What is the maximum voltage drop that is permitted for domestic wiring?",
+        a:"2%",
+        b:"4%",
+        c:"6%",
+        d:"8%",
+        correct:"a",
+    },
+
+
+
 
 
 ];
